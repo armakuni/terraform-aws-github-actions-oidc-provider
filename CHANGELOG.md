@@ -2,6 +2,14 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [v0.1.2](https://github.com/armakuni/terraform-aws-github-actions-oidc-provider/compare/v0.1.1..v0.1.2) - 2023-09-25
+#### Bug Fixes
+- Generate terraform docs - ([8e30ab4](https://github.com/armakuni/terraform-aws-github-actions-oidc-provider/commit/8e30ab46f4a22de2a2bcf02df3435e4078210744)) - Tom Oram
+#### Continuous Integration
+- Build on pull request - ([e54d008](https://github.com/armakuni/terraform-aws-github-actions-oidc-provider/commit/e54d008de3948ab72e9e81205427ea0829489ae8)) - Tom Oram
+
+- - -
+
 ## [v0.1.1](https://github.com/armakuni/terraform-aws-github-actions-oidc-provider/compare/v0.1.0..v0.1.1) - 2023-09-22
 #### Bug Fixes
 - Add missing thumbprint - ([5c0bf0c](https://github.com/armakuni/terraform-aws-github-actions-oidc-provider/commit/5c0bf0c35a7ce6050a23f4fc8c2deebde9648236)) - Tom Oram
